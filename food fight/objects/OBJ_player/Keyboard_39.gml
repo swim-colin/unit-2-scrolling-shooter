@@ -1,2 +1,1 @@
-///moving right
-x = x + spd
+x = x + 8

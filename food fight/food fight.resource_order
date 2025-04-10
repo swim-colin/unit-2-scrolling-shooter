@@ -17,10 +17,12 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Obj_duck","order":1,"path":"objects/Obj_duck/Obj_duck.yy",},
+    {"name":"Obj_game","order":3,"path":"objects/Obj_game/Obj_game.yy",},
+    {"name":"obj_wall","order":4,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"Obj_wine","order":2,"path":"objects/Obj_wine/Obj_wine.yy",},
-    {"name":"background","order":15,"path":"sprites/background/background.yy",},
-    {"name":"Spr_duck","order":17,"path":"sprites/Spr_duck/Spr_duck.yy",},
-    {"name":"SPR_player","order":16,"path":"sprites/SPR_player/SPR_player.yy",},
-    {"name":"spr_wine","order":18,"path":"sprites/spr_wine/spr_wine.yy",},
+    {"name":"Spr_duck","order":1,"path":"sprites/Spr_duck/Spr_duck.yy",},
+    {"name":"SPR_player","order":2,"path":"sprites/SPR_player/SPR_player.yy",},
+    {"name":"spr_wine","order":3,"path":"sprites/spr_wine/spr_wine.yy",},
+    {"name":"wall","order":4,"path":"sprites/wall/wall.yy",},
   ],
 }
