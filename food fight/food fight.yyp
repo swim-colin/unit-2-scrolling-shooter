@@ -39,10 +39,14 @@
     {"id":{"name":"OBJ_player","path":"objects/OBJ_player/OBJ_player.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"Obj_wine","path":"objects/Obj_wine/Obj_wine.yy",},},
+    {"id":{"name":"rm_fail","path":"rooms/rm_fail/rm_fail.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
     {"id":{"name":"Spr_duck","path":"sprites/Spr_duck/Spr_duck.yy",},},
+    {"id":{"name":"spr_fail","path":"sprites/spr_fail/spr_fail.yy",},},
     {"id":{"name":"SPR_player","path":"sprites/SPR_player/SPR_player.yy",},},
+    {"id":{"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},},
     {"id":{"name":"spr_wine","path":"sprites/spr_wine/spr_wine.yy",},},
     {"id":{"name":"wall","path":"sprites/wall/wall.yy",},},
   ],
@@ -50,6 +54,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"roomId":{"name":"rm_fail","path":"rooms/rm_fail/rm_fail.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

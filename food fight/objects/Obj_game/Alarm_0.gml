@@ -9,4 +9,4 @@ if(choose(0,1) == 0){
 
 instance_create_layer(xx, yy, "Instances", Obj_duck);
 }
-alarm[0] = 0.09*60;
+alarm[0] = 0.1*60;
