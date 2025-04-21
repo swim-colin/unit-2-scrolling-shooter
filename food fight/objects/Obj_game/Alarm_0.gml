@@ -1,3 +1,4 @@
+//for duck
 if(room !=rm_game){
 	exit;
 }
